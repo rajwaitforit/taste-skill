@@ -15,8 +15,8 @@ General-purpose OpenClaw skill for defining, training, and applying taste profil
 ## Included files
 
 - `SKILL.md` — core skill instructions and workflow
-- `references/intake-template.md` — reusable onboarding questions
-- `references/output-templates.md` — response/output formats
+- `intake-template.md` — reusable onboarding questions
+- `output-templates.md` — response/output formats
 
 ## Typical use cases
 
