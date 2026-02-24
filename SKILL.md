@@ -7,6 +7,10 @@ description: Build and apply a personal or brand taste profile to curate referen
 
 Use this workflow to turn subjective taste into a reusable profile and then generate high-signal recommendations.
 
+Use supporting files when needed:
+- `references/intake-template.md`
+- `references/output-templates.md`
+
 ## 1) Run intake first (mandatory)
 
 Ask these in order and do not skip unless already answered.
